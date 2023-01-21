@@ -1,4 +1,4 @@
-## Olá eu sou o Manoel Henrique 🤙
+<!-- ## Olá eu sou o Manoel Henrique 🤙 -->
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-henrique-10374b209/)
 
