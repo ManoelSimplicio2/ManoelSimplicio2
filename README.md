@@ -1,9 +1,10 @@
 <!-- ## Olá eu sou o Manoel Henrique 🤙 -->
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-henrique-10374b209/)
-
 ![Manoel GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoelSimplicio2&show_icons=true&theme=merko)
 
+### Meus links
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-henrique-10374b209/)
 
 ### Tecnologias que utilizo
 
