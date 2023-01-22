@@ -1,6 +1,6 @@
-<!-- ## Olá eu sou o Manoel Henrique 🤙 -->
+## Olá seja bem vindo(a) 🤙
 
-![Manoel GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoelSimplicio2&show_icons=true&theme=merko)
+![Manoel GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoelSimplicio2&show_icons=true&theme=tokyonight)
 
 ### Meus links
 
@@ -22,5 +22,4 @@
 <img alighn="center" alt="html15" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-Sempre procurando adquirir novas habilidades que agreguem e acelerem meu desempenho e
-produtividade ⚡
+Sempre procurando adquirir novas habilidades que agreguem e acelerem meu desempenho e produtividade ⚡
